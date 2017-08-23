@@ -1,6 +1,6 @@
 #include <iostream>
-#include "libs/test.cpp"
 
+using namespace std;
 
 
 int main() {
