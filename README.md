@@ -2,7 +2,7 @@
 
 ***
 
-#### Here you will find all the projects I do in conjunction with the Programering 1 course.####
+#### Here you will find all the projects I do in conjunction with the Programering 1 course. ####
 
 
 Each project will have a README.MD with explanations of how the code works. These can include code snippets to clarify what I'm talking about.
@@ -38,7 +38,7 @@ Of course there will still be comments in the code as well but there will be a m
 ### The Repos Structure: ###
 
 - Task 1
- - Lua
+  - Lua
    - code.lua
    - README.md (Radable under the contents of the folder)
 
