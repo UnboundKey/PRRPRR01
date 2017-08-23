@@ -1,4 +1,4 @@
-#  Benjamin Nordin's programing 1 Github Repo#
+#  Benjamin Nordin's programing 1 Github Repo #
 
 ***
 
@@ -35,7 +35,7 @@ print("Took "..os.clock() - starttime.." ms")
 
 Of course there will still be comments in the code as well but there will be a more in depth explanation in the README file associated with each project or programing language.
 
-### The Repos Structure:###
+### The Repos Structure: ###
 
 - Task 1
  - Lua
