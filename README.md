@@ -52,6 +52,8 @@ Of course there will still be comments in the code as well but there will be a m
 
 There will also be a link in the README to where you can execute see if the code works
 
-#### You can try the code here <a href="https://github.com/UnboundKey/PRRPRR01">Click Here</a> ####
+You can try the code here [Click Here]
 
 This will usually be put near the top of the projects README for immediate access
+
+[Click Here]: https://github.com/UnboundKey/PRRPRR01
