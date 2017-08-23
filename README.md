@@ -39,8 +39,8 @@ Of course there will still be comments in the code as well but there will be a m
 
 - Task 1
   - Lua
-   - code.lua
-   - README.md (Radable under the contents of the folder)
+    - code.lua
+    - README.md (Radable under the contents of the folder)
 
 - Task 2
   - Lua
