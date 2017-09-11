@@ -22,8 +22,10 @@ echo $name . " Goes to " . $course;
 
 ### lua ###
 ``` lua
+--creating variables
 name = "Benjamin"
 course = "Programing 1"
+-- gluing the variables together as one string.
 print( name .. " Goes to " .. course)
 ```
 
