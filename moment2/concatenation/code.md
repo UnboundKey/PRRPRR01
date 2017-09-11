@@ -41,3 +41,4 @@ print("The circumfrance of circle iz " .. circumfrance)
 ```
 
 ### Try it. ###
+<script src="//repl.it/embed/KvZH/1.js"></script>
