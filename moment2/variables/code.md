@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: Comments](../comments/code.md)) ([NEXT\>]())
+([<PREV: Comments](../comments/code.md)) ([NEXT\>: Constants](../constants/code.md))
 
 ##  Moment 2 - VARIABLES ##
 
@@ -9,8 +9,11 @@
 
 ``` php
 <?php
+//creating variables.
 $name = "Benjamin";
 $course = "Programing 1";
+
+//contatinating said variables.
 echo $name . " Goes to " . $course;
 ```
 ### Try code below ###
@@ -34,12 +37,22 @@ print( name .. " Goes to " .. course)
 
 ``` php
 <?php
+//Setting the radus of the circle to 4
 $radie = 4;
+
+//finding the diameter
 $diameter = $radie * 2;
+
+//creating pi
 $pie = 3.14;
+
+//calculating area
 $area = $pie * $radie * $radie;
+
+//calculating circumference
 $circumfrance = $pie * $diameter;
 
+//printing out circumference and area.
 echo "The area of circle iz $area";
 echo "The circumfrance iz $circumfrance";
 
