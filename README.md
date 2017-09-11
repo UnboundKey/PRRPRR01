@@ -9,6 +9,6 @@
 [Wordpress](https://wp.benjaminnordin.se/)
 
 #### Moment 2 ####
-##### [print](./moment2/print/code.md) #####
-##### [Comments](./moment2/comments/code.md) #####
-##### [Variables](./moment2/variables/code.md) #####
+##### 1. [print](./moment2/print/code.md) #####
+##### 2. [Comments](./moment2/comments/code.md) #####
+##### 3. [Variables](./moment2/variables/code.md) #####
