@@ -5,7 +5,7 @@
 
 ##  Moment 2 - VARIABLES ##
 
-##### PHP #####
+### PHP ###
 
 ``` php
 <?php
@@ -17,7 +17,7 @@ echo $name . " Goes to " . $course;
 
 <script src="//repl.it/embed/Kuv6/1.js"></script>
 
-##### lua #####
+### lua ###
 ``` lua
 name = "Benjamin"
 course = "Programing 1"
@@ -27,3 +27,41 @@ print( name .. " Goes to " .. course)
 ### Try the code below ###
 
 <script src="//repl.it/embed/KuvN/2.js"></script>
+
+### Circle Radie ###
+
+### PHP ###
+
+``` php
+<?php
+$radie = 4;
+$diameter = $radie * 2;
+$pie = 3.14;
+$area = $pie * $radie * $radie;
+$circumfrance = $pie * $diameter;
+
+echo "The area of circle iz $area";
+echo "The circumfrance iz $circumfrance";
+
+```
+
+### Try me code ###
+
+<script src="//repl.it/embed/Kuv6/2.js"></script>
+
+### lua ###
+
+```lua
+
+radie = 4
+diameter = radie * 2
+pie = 3.14
+area = pie * radie * radie
+circumfrance = diameter * pie
+
+print("The area of circle iz " .. area)
+print("The circumfrance of circle iz " .. circumfrance)
+```
+### Try the code below ###
+
+<script src="//repl.it/embed/KuvN/3.js"></script>
