@@ -3,13 +3,13 @@
 ***
 ([<PREV: Print](../print/code.md)) ([NEXT\> Variables](../variables/code.md))
 
-##  Moment 2 - PRINTING ##
+##  Moment 2 - COMMENTS ##
 
-##### PHP #####
+### PHP ###
 
 ``` php
 <?php
-print "Commenting your code is important"
+print "Commenting your code is important";
 /* it helps others to understand what the lines of code
 * are doing
 */
@@ -17,9 +17,11 @@ print "Commenting your code is important"
 // that was a multiline comment, this is a single line comment
 ?>
 ```
-[try the code here]()
+### Try code below ###
 
-##### lua #####
+<script src="//repl.it/embed/Kuv6/0.js"></script>
+
+### lua ###
 ``` lua
 print("Commenting your code is important")
 --[[
@@ -29,4 +31,6 @@ it helps others to understand what the lines of code are doing
 -- that was a multiline comment, this is a single line comment
 ```
 
-<script src="//repl.it/embed/Kutx/0.js"></script>
+### Try code below ###
+
+<script src="//repl.it/embed/KuvN/1.js"></script>

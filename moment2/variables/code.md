@@ -13,9 +13,17 @@ $name = "Benjamin";
 $course = "Programing 1";
 echo $name . " Goes to " . $course;
 ```
-[try the code here]()
+### Try code below ###
+
+<script src="//repl.it/embed/Kuv6/1.js"></script>
 
 ##### lua #####
 ``` lua
-print("Hello world")
+name = "Benjamin"
+course = "Programing 1"
+print( name .. " Goes to " .. course)
 ```
+
+### Try the code below ###
+
+<script src="//repl.it/embed/KuvN/2.js"></script>

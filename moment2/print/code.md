@@ -5,7 +5,7 @@
 
 ##  Moment 2 - PRINTING ##
 
-##### PHP #####
+### PHP ###
 
 ``` php
 <?php
@@ -15,9 +15,15 @@ echo "Hello world";
 // while echo is marginally faster
 ?>
 ```
-[try the code here]()
+### Try code below ###
 
-##### lua #####
+<script src="//repl.it/embed/Kutx/1.js"></script>
+
+### lua ###
 ``` lua
 print("Hello world")
 ```
+
+### Try code below ###
+
+<script src="//repl.it/embed/KuvN/0.js"></script>
