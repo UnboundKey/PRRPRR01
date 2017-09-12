@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: Constants](../constants/code.md)) ([NEXT\>]())
+([<PREV: Constants](../constants/code.md)) ([NEXT\> escaping this hell](../escape/code.md))
 
 ##  Moment 2 - Concatenation ##
 

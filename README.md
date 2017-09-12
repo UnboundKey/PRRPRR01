@@ -14,3 +14,6 @@
 ##### 3. [Variables](./moment2/variables/code.md) #####
 ##### 4. [Constants](./moment2/constants/code.md) #####
 ##### 5. [Concatenation](./moment2/concatenation/code.md) #####
+##### 6. [Escaping](./moment2/escape/code.md) #####
+##### 7. [string functions](./moment2/stringfunc/code.md)#####
+##### 8. [arrays](./arrays/code.md) #####
