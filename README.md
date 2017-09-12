@@ -16,4 +16,4 @@
 ##### 5. [Concatenation](./moment2/concatenation/code.md) #####
 ##### 6. [Escaping](./moment2/escape/code.md) #####
 ##### 7. [string functions](./moment2/stringfunc/code.md)#####
-##### 8. [arrays](./arrays/code.md) #####
+##### 8. [arrays](./moment2/arrays/code.md) #####
