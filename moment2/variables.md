@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: Comments](../comments/code.md)) ([NEXT\>: Constants](../constants/code.md))
+([<PREV: Comments](./comments.md)) ([NEXT\>: Constants](./constants.md))
 
 ##  Moment 2 - VARIABLES ##
 

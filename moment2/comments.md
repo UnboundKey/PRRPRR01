@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: Print](../print/code.md)) ([NEXT\> Variables](../variables/code.md))
+([<PREV: Print](./print.md)) ([NEXT\> Variables](./variables.md))
 
 ##  Moment 2 - COMMENTS ##
 

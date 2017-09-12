@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-[NEXT\>: Comments](../comments/code.md)
+[NEXT\>: Comments](./comments.md)
 
 ##  Moment 2 - PRINTING ##
 

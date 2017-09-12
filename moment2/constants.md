@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: variables](../variables/code.md)) ([NEXT\>: Concatenation](../concatenation/code.md))
+([<PREV: variables](./variables.md)) ([NEXT\>: Concatenation](./concatenation.md))
 
 ##  Moment 2 - Constants ##
 

@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: Concatenation](../concatenation/code.md)) ([NEXT\> string functions](../stringfunc/code.md))
+([<PREV: Concatenation](./concatenation.md)) ([NEXT\> string functions](./stringfunc.md))
 
 ##  Moment 2 - Escaping ##
 
