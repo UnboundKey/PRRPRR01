@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: ESCAPE](./moment2/escape.md)) ([NEXT\> string functions](./arrays.md))
+([<PREV: ESCAPE](./escape.md)) ([NEXT\> string functions](./arrays.md))
 
 ##  Moment 2 - string functions ##
 

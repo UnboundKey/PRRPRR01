@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV: string functions](./moment2/stringfunc.md))
+([<PREV: string functions](./stringfunc.md))
 
 ##  Moment 2 - Arrays ##
 
