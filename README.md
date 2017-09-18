@@ -17,4 +17,4 @@
 ##### 6. [Escaping](./moment2/escape.md) #####
 ##### 7. [string functions](./moment2/stringfunc.md)#####
 ##### 8. [arrays](./moment2/arrays.md) #####
-##### BONUS. [ARRAYS DIFFICULT VERSION](./moment2/arrays.md) #####
+##### BONUS. [ARRAYS DIFFICULT VERSION](./moment2/bonus.md) #####
