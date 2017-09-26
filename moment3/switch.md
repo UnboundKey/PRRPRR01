@@ -30,4 +30,4 @@ switch(true) {
 
 ### Try it If you like ###
 
-<script src="//repl.it/embed/LdrX/6.js"></script>
+<script src="//repl.it/embed/LfSY/0.js"></script>
