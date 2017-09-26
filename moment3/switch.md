@@ -10,19 +10,18 @@
 
 ```php
 <?php
-//Gets current hour
-$hour = date("H"); //Yeong-su was here
-$printingString = "It's a school day \n";
-
-switch ($hour) {
-  case '< 8':
-  echo "school hasn\'t started";
+$hourvar = date("H");
+switch(true) {
+  case $hourvar < 8:
+    print("School's not begun yet... (run)");
     break;
-  case '> 16':
-    echo "school has ended";
+    
+    case $hourvar > 16:
+    print("School's out");  
     break;
-  default:
-    echo $printingString;
+    
+    default: 
+    print("School Time");
     break;
 }
 ?>
