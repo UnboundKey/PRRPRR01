@@ -3,7 +3,7 @@
 ***
 ([<PREV IF statements](./if.md)) ([NEXT\> Else](./else.md))
 
-##  Moment 3 - Concatinated Ifs ##
+##  Moment 3 - Else if ##
 
 
 ### PHP ###
@@ -14,23 +14,10 @@
 $hour = date("H"); //Yeong-su was here
 $printingString = "It's a school day \n";
 
-if($hour >= 8 && $hour <= 16) {
+if($hour > 8 and $hour < 16) {
   echo $printingString;
 }
-
-if ($hour>= 8) {
-  if($hour <= 16) {
-    echo $printingString;
-  }
-}
-
-if (!($hour < 8) and !($hour > 16)) {
-  echo $printingString;
-}
-
-if (!($hour - 8 <= 0) or ($hour - 16 > 0)) {
-  echo $printingString;
-}
+?>
 ```
 
 

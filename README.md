@@ -8,6 +8,8 @@
 
 [Wordpress](https://wp.benjaminnordin.se/)
 
+___
+
 ### Moment 2 ###
 
 [Wordpress](http://www.wp.benjaminnordin.se/upgifter/moment-2/)
@@ -22,6 +24,11 @@
 ##### 8. [arrays](./moment2/arrays.md) #####
 ##### BONUS. [ARRAYS DIFFICULT VERSION](./moment2/bonus.md) #####
 
+---
+
 ### Moment 3 ###
 
 ##### 1. [if-statment](./moment3/if.md) #####
+##### 2 [IF Multiple Params](./moment3/ifconc) ####
+##### 3. [Else](./moment3/else.md) #####
+##### 4. [else if](./moment3/elseif.md) #####
