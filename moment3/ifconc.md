@@ -3,37 +3,33 @@
 ***
 ([<PREV IF statements](./if.md)) ([NEXT\> Else](./else.md))
 
-##  Moment 3 - Concatinated Ifs ##
+##  Moment 3 - Glued Expressions ##
 
 
 ### PHP ###
 
 ```php
 <?php
-//Gets current hour
-$hour = date("H"); //Yeong-su was here
-$printingString = "It's a school day \n";
+$time = date('H');
 
-if($hour >= 8 && $hour <= 16) {
-  echo $printingString;
+//checks if $time is between 8am and 4pm. if it is it prints
+if($time > 8 and $time < 16) {
+  print("You're still in school");
+}
+//checks if $time is not outside the time frame and if it isnt then it prints
+if(!($time < 8) and !($time > 16)) {
+  print("You're still in school");
 }
 
-if ($hour>= 8) {
-  if($hour <= 16) {
-    echo $printingString;
+//this one is doing each step separately but functions the same as the first one.
+if($time > 8) {
+  if($time < 16) {
+    print("You're still in school");
   }
 }
-
-if (!($hour < 8) and !($hour > 16)) {
-  echo $printingString;
-}
-
-if (!($hour - 8 <= 0) or ($hour - 16 > 0)) {
-  echo $printingString;
-}
+?>
 ```
 
 
 ### Try it If you like ###
-
-<script src="//repl.it/embed/LdrX/2.js"></script>
+<script src="//repl.it/embed/Letm/0.js"></script>

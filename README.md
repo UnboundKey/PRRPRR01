@@ -29,8 +29,9 @@ ___
 ### Moment 3 ###
 
 ##### 1. [if-statment](./moment3/if.md) #####
-##### 2 [IF Multiple Params](./moment3/ifconc) ####
+##### 2 [Glued Expressions](./moment3/ifconc.md) ####
 ##### 3. [Else](./moment3/else.md) #####
 ##### 4. [else if](./moment3/elseif.md) #####
 ##### 5. [Switch](./moment3/switch.md) #####
 ##### 6. [for-loop](./moment3/for-loop.md) #####
+##### 7. [while-loop](./moment3/while-loop.md)#####

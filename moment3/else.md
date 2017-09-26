@@ -13,7 +13,7 @@
 //Gets current hour
 $hour = date("H"); //Yeong-su was here
 $printingString = "It's a school day \n";
-$notPrintingString = "It\'s not a school day"
+$notPrintingString = "It\'s not a school day";
 
 if($hour >= 8 && $hour <= 16) {
   echo $printingString;
@@ -36,11 +36,6 @@ if (!($hour < 8) and !($hour > 16)) {
   echo $notPrintingString;
 }
 
-if (!($hour - 8 <= 0) or ($hour - 16 > 0)) {
-  echo $printingString;
-} else {
-  echo $notPrintingString;
-}
 ```
 
 

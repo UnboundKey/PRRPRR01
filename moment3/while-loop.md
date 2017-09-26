@@ -3,7 +3,7 @@
 ***
 ([<PREV for-loop ](./for-loop.md)) ([NEXT\> For loop](./for-loop.md))
 
-##  Moment 3 - Switch ##
+##  Moment 3 - While Loop ##
 
 
 ### PHP ###
