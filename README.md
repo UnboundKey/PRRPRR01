@@ -4,13 +4,11 @@
 
 #### Here you will find all the projects I do in conjunction with the Programering 1 course. ####
 
-#### Moment 1 ####
+### Moment 1 ###
 
 [Wordpress](https://wp.benjaminnordin.se/)
 
-***
-
-#### Moment 2 ####
+### Moment 2 ###
 
 [Wordpress](http://www.wp.benjaminnordin.se/upgifter/moment-2/)
 
@@ -24,6 +22,6 @@
 ##### 8. [arrays](./moment2/arrays.md) #####
 ##### BONUS. [ARRAYS DIFFICULT VERSION](./moment2/bonus.md) #####
 
-***
-#### Moment 3 ####
+### Moment 3 ###
+
 ##### 1. [if-statment](./moment3/if.md) #####
