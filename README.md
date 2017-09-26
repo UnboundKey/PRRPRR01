@@ -32,3 +32,5 @@ ___
 ##### 2 [IF Multiple Params](./moment3/ifconc) ####
 ##### 3. [Else](./moment3/else.md) #####
 ##### 4. [else if](./moment3/elseif.md) #####
+##### 5. [Switch](./moment3/switch.md) #####
+##### 6. [for-loop](./moment3/for-loop.md) #####
