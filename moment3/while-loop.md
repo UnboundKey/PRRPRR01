@@ -10,20 +10,17 @@
 
 ```php
 <?php
-//Gets current hour
-$hour = date("H"); //Yeong-su was here
-$printingString = "It's a school day \n";
-
-switch ($hour) {
-  case '< 8':
-  echo "school hasn\'t started";
-    break;
-  case '> 16':
-    echo "school has ended";
-    break;
-  default:
-    echo $printingString;
-    break;
+//starting number of rats
+$numofrats = 100;
+$month = 0;
+//while the rat population is less than one milion do this
+while($numofrats < 1000000) {
+  //double the amount of rats.
+  $numofrats = $numofrats * 2;
+  //add a month to the counter
+  $month++;
+  //print the result
+  print($month . ": " . $numofrats . "\n");
 }
 ?>
 ```
@@ -31,4 +28,4 @@ switch ($hour) {
 
 ### Try it If you like ###
 
-<script src="//repl.it/embed/LdrX/6.js"></script>
+<script src="//repl.it/embed/Lg6p/0.js"></script>
