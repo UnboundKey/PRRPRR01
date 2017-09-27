@@ -35,3 +35,4 @@ ___
 ##### 5. [Switch](./moment3/switch.md) #####
 ##### 6. [for-loop](./moment3/for-loop.md) #####
 ##### 7. [while-loop](./moment3/while-loop.md) #####
+##### 8. [do-while](./moment3/do-while.md) #####

@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([NEXT\> Arrays](./ifconc.md))
+([NEXT\> Glued Expressions](./ifconc.md))
 
 ##  Moment 3 - If statement ##
 
