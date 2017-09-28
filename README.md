@@ -2,7 +2,7 @@
 
 ***
 
-#### Here you will find all the projects I do in conjunction with the Programering 1 course. ####
+#### Here yo big-ass booty is ghon find all tha projects I do up in conjunction wit tha Programerin 1 course. ####
 
 ### Moment 1 ###
 
@@ -36,3 +36,4 @@ ___
 ##### 6. [for-loop](./moment3/for-loop.md) #####
 ##### 7. [while-loop](./moment3/while-loop.md) #####
 ##### 8. [do-while](./moment3/do-while.md) #####
+##### 9. [foreach](./moment3/foreach.md) #####

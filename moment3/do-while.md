@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV while-loop ](./while-loop.md)) ([NEXT\> For loop](./do-while.md))
+([<PREV while-loop ](./while-loop.md)) ([NEXT\> Foreach](./foreach.md))
 
 ##  Moment 3 - Do While Loop ##
 
