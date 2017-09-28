@@ -20,7 +20,7 @@ ___
 ##### 4. [Constants](./moment2/constants.md) #####
 ##### 5. [Concatenation](./moment2/concatenation.md) #####
 ##### 6. [Escaping](./moment2/escape.md) #####
-##### 7. [string functions](./moment2/stringfunc.md)#####
+##### 7. [string functions](./moment2/stringfunc.md) #####
 ##### 8. [arrays](./moment2/arrays.md) #####
 ##### BONUS. [ARRAYS DIFFICULT VERSION](./moment2/bonus.md) #####
 
@@ -37,3 +37,6 @@ ___
 ##### 7. [while-loop](./moment3/while-loop.md) #####
 ##### 8. [do-while](./moment3/do-while.md) #####
 ##### 9. [foreach](./moment3/foreach.md) #####
+##### 10. [break and continue](./moment3/breakandcontinue.md) #####
+##### 11. [Function Calls](./moment3/functioncalls.md) #####
+##### 11. [Function Parameters](./moment3/functionparam.md) #####
