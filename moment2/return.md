@@ -1,9 +1,9 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV Function calls ](./functioncalls.md)) ([NEXT\> ](./return.md))
+([<PREV Function calls ](./functionparam.md)) ([NEXT\> ](./functionparam.md))
 
-##  Moment 3 - function Params  ##
+##  Moment 3 - Return Values  ##
 
 
 ### PHP ###
@@ -25,7 +25,7 @@ $area = M_PI * M_PI * $radie;
 return $area;
 }
 
-//calling the function returns the awnser and echo then uses what it returns and concatinate into the string.
+//calling the function returns the awnser and echo then uses what it returns and concatinates that into the string.
 echo "The area of circle iz " . areaCircle(100) . "\n";
 
 echo "The circumfrance iz ". omkretsCircle(100) ."\n";
@@ -35,5 +35,4 @@ echo "The circumfrance iz ". omkretsCircle(100) ."\n";
 
 
 ### Try it If you like ###
-
 <script src="//repl.it/embed/LmeR/0.js"></script>
