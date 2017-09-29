@@ -38,5 +38,5 @@ echo "<h1>" . areaCircle(1) . "</h1>";
 
 ```
 
-### INDEX.PHP IFRAME ###
-<iframe href="index.php"></iframe>
+### INDEX.PHP Länk ###
+<a href="index.php">CLICK</a>
