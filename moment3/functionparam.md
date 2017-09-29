@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV Function calls ](./functioncalls.md)) ([NEXT\> ](./return.md))
+([<PREV Function calls ](./functioncalls.md)) ([NEXT\> ](./functionparam.md))
 
 ##  Moment 3 - function Params  ##
 
@@ -12,28 +12,28 @@
 <?php
 //creating a function with the parameter $radie
 function omkretsCircle($radie) {
+//finding the diameter using parameter
 $diameter = $radie * 2;
+
+//calculating circumference
 $circumfrance = M_PI * $diameter;
-//the value that other function will use if this function is called.
-return $circumfrance;
+
+//printing out circumference and area.
+echo "The circumfrance iz $circumfrance \n";
 }
 
 function areaCircle($radie) {
 // finding area using parameter
-$area = M_PI * M_PI * $radie;
-//the value that other function will use if this function is called.
-return $area;
+$area = M_PI * M_PI * $radie;  
+echo "The area of circle iz $area \n";
 }
-
-//calling the function returns the awnser and echo then uses what it returns and concatinate into the string.
-echo "The area of circle iz " . areaCircle(100) . "\n";
-
-echo "The circumfrance iz ". omkretsCircle(100) ."\n";
-
+//calling functions (They require a parameter otherwise they dont have the necessary variables to finish operations)
+areaCircle(50);
+omkretsCircle(500);
 ?>
 ```
 
 
 ### Try it If you like ###
 
-<script src="//repl.it/embed/LmeR/0.js"></script>
+<script src="//repl.it/embed/LlS8/0.js"></script>
