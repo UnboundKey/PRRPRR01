@@ -16,6 +16,27 @@ echo "<h1>" . areaCircle(1) . "</h1>";
 ?>
 ```
 
+## functions.php ##
+```php
+<?php
+  //creating a function with the parameter $radie
+  function omkretsCircle($radie) {
+  $diameter = $radie * 2;
+  $circumfrance = M_PI * $diameter;
+  //the value that other function will use if this function is called.
+  return $circumfrance;
+  }
+
+  function areaCircle($radie) {
+  // finding area using parameter
+  $area = M_PI * M_PI * $radie;
+  //the value that other function will use if this function is called.
+  return $area;
+  }
+
+?>
+
+```
 
 ### INDEX.PHP IFRAME ###
-<iframe src="index.php"></iframe>
+<iframe href="index.php"></iframe>
