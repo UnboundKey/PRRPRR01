@@ -39,4 +39,4 @@ echo "<h1>" . areaCircle(1) . "</h1>";
 ```
 
 ### INDEX.PHP Länk ###
-<iframe src="http://php.benjaminnordin.se/external/"></iframe>
+<a href="http://php.benjaminnordin.se/external/"></a>
