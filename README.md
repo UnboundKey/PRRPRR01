@@ -28,6 +28,8 @@ ___
 
 ### Moment 3 ###
 
+[Wordpress](http://www.wp.benjaminnordin.se/upgifter/moment-3/)
+
 ##### 1. [if-statment](./moment3/if.md) #####
 ##### 2 [Glued Expressions](./moment3/ifconc.md) ####
 ##### 3. [Else](./moment3/else.md) #####
