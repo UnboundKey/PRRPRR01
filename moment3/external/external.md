@@ -1,9 +1,9 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV Function calls ](./functionparam.md)) ([NEXT\> ](./functionparam.md))
+([<PREV Function calls ](../functionparam.md))
 
-##  Moment 3 - Return Values  ##
+##  Moment 3 - External PHP  ##
 
 
 ## index.php ##
@@ -39,4 +39,4 @@ echo "<h1>" . areaCircle(1) . "</h1>";
 ```
 
 ### INDEX.PHP Länk ###
-<a href="index.php">CLICK</a>
+<iframe src="http://php.benjaminnordin.se/external/"></iframe>
