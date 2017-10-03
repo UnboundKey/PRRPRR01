@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV Function calls ](./functioncalls.md)) ([NEXT\> ](./functionparam.md))
+([<PREV Function calls ](./functioncalls.md)) ([NEXT\> ](./external/external.md))
 
 ##  Moment 3 - function Params  ##
 
