@@ -1,7 +1,7 @@
 #  Benjamin Nordin's programing 1 Repo #
 
 ***
-([<PREV while-loop ](./do-while.md)) ([NEXT\> break and continue](./breakandcontinue.md))
+([<PREV while-loop ](./nestloop.md)) ([NEXT\> break and continue](./breakandcontinue.md))
 
 ##  Moment 3 - Foreach Loop ##
 
