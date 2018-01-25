@@ -57,7 +57,7 @@ ___
 
 ### Projects ###
 ##### 1. [Bank Application](http://php.benjaminnordin.se/Bank/) ######
-##### 1. [Bank Application](http://php.benjaminnordin.se/Bank/source.php) ######
+##### 1. [Bank Application: source](http://php.benjaminnordin.se/Bank/source.php) ######
 
 ### End Project ###
 
